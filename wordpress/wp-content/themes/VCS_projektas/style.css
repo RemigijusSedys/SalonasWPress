@@ -1,0 +1,28 @@
+/* 
+Theme name: VCS projektas
+Text Domain: Me
+Version: 1.0.0
+Description: Salono puslapis  
+Tags: White 
+Author: Remigijus
+Author URI: https://www.youtube.com/watch?v=DHjqpvDnNGE
+*/
+
+/* collors */
+.pop2023color {
+   color: rgb(62 6 17);
+   color: rgb(96 15 32);
+   color: rgb(143 26 55);
+   color: rgb(190 52 85);
+   color: rgb(223 63 97);
+   color: rgb(235 98 126);
+}
+
+.apricotCrush-2024color {
+   /* main color */
+   color: #e99460;
+   color: rgb(233, 148, 96);
+   /* main color contrast */
+   color: #200b06;
+
+}
